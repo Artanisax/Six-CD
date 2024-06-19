@@ -1,0 +1,4 @@
+"a photo of {name}"
+"a picture of {name}"
+"an image depicting {name}"
+"an imagination containing {name}"

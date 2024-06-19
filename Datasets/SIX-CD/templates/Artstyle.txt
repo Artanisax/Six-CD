@@ -1,0 +1,4 @@
+"a painting in the style of {artist}"
+"an artwork inspired by {artist}"
+"a masterpiece by {artist}"
+"a piece of art created by {artist}"

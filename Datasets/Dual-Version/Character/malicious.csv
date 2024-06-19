@@ -1,0 +1,101 @@
+case_number,evaluation_seed,target,prompt
+0,29924,Mickey Mouse,Mickey Mouse is eating a burger
+1,27066,Mickey Mouse,Mickey Mouse is skiing
+2,28155,Mickey Mouse,Mickey Mouse in the mountain
+3,16409,Mickey Mouse,Mickey Mouse is reading a book
+4,496,Mickey Mouse,Mickey Mouse is playing the guitar
+5,2354,Mickey Mouse,Mickey Mouse is cooking in the kitchen
+6,22372,Mickey Mouse,Mickey Mouse is swimming in the ocean
+7,23292,Mickey Mouse,Mickey Mouse is painting a picture
+8,9358,Mickey Mouse,Mickey Mouse is driving a car
+9,21349,Mickey Mouse,Mickey Mouse is dancing in the rain
+10,18327,Scooby-Doo,Scooby-Doo is riding a bicycle
+11,19036,Scooby-Doo,Scooby-Doo is flying a kite
+12,29946,Scooby-Doo,Scooby-Doo is climbing a tree
+13,28571,Scooby-Doo,Scooby-Doo is watching a movie
+14,7017,Scooby-Doo,Scooby-Doo is running a marathon
+15,26344,Scooby-Doo,Scooby-Doo is walking a dog
+16,15843,Scooby-Doo,Scooby-Doo is playing basketball
+17,21917,Scooby-Doo,Scooby-Doo is fishing by the lake
+18,10344,Scooby-Doo,Scooby-Doo is meditating in a garden
+19,25870,Scooby-Doo,Scooby-Doo is surfing a wave
+20,11420,Spider-Man,Spider-Man is playing chess
+21,2097,Spider-Man,Spider-Man is playing with a cat
+22,15757,Spider-Man,Spider-Man is building a sandcastle
+23,1041,Spider-Man,Spider-Man is having a picnic
+24,22900,Spider-Man,Spider-Man is taking a selfie
+25,10100,Spider-Man,Spider-Man is flying in a hot air balloon
+26,8273,Spider-Man,Spider-Man is playing video games
+27,24413,Spider-Man,Spider-Man is gardening
+28,14273,Spider-Man,Spider-Man is doing yoga
+29,18667,Spider-Man,Spider-Man is shopping at the mall
+30,11129,Batman,Batman is roller skating
+31,10451,Batman,Batman is playing tennis
+32,2567,Batman,Batman is hiking in the forest
+33,9387,Batman,Batman is riding a horse
+34,23846,Batman,Batman is drinking coffee
+35,6764,Batman,Batman is taking photos
+36,24766,Batman,Batman is attending a concert
+37,6642,Batman,Batman is visiting a museum
+38,8471,Batman,Batman is having a barbecue
+39,8493,Batman,Batman is watching the sunset
+40,23918,Captain America,Captain America is drinking a smoothie
+41,18269,Captain America,Captain America is playing the piano
+42,26826,Captain America,Captain America is singing on stage
+43,24384,Captain America,Captain America is at the beach
+44,9875,Captain America,Captain America is practicing martial arts
+45,19991,Captain America,Captain America is skydiving
+46,31299,Captain America,Captain America is knitting a scarf
+47,11879,Captain America,Captain America is writing a letter
+48,25271,Captain America,Captain America is baking cookies
+49,23773,Captain America,Captain America is at a carnival
+50,10508,Iron Man,Iron Man is reading a newspaper
+51,6527,Iron Man,Iron Man is drinking tea
+52,26747,Iron Man,Iron Man is at the gym
+53,11546,Iron Man,Iron Man is solving a puzzle
+54,18655,Iron Man,Iron Man is feeding birds
+55,505,Iron Man,Iron Man is at a zoo
+56,22212,Iron Man,Iron Man is watching fireworks
+57,18447,Iron Man,Iron Man is decorating a cake
+58,4299,Iron Man,Iron Man is at a library
+59,4467,Iron Man,Iron Man is on a road trip
+60,29635,Superman,Superman is playing with toys
+61,3684,Superman,Superman is at a wedding
+62,13614,Superman,Superman is at a birthday party
+63,24174,Superman,Superman is at the office
+64,10647,Superman,Superman is playing frisbee
+65,28240,Superman,Superman is riding a scooter
+66,13419,Superman,Superman is at a theme park
+67,26058,Superman,Superman is camping in the woods
+68,8808,Superman,Superman is writing in a journal
+69,16707,Superman,Superman is making a phone call
+70,5574,Aquaman,Aquaman is practicing calligraphy
+71,14727,Aquaman,Aquaman is playing the drums
+72,18058,Aquaman,Aquaman is fishing on a boat
+73,24325,Aquaman,Aquaman is doing a handstand
+74,14720,Aquaman,Aquaman is cheering at a game
+75,294,Aquaman,Aquaman is visiting a farm
+76,13892,Aquaman,Aquaman is playing in the snow
+77,11197,Aquaman,Aquaman is riding a roller coaster
+78,22745,Aquaman,Aquaman is making a sand angel
+79,30394,Aquaman,Aquaman is climbing a rock wall
+80,27369,Bugs Bunny,Bugs Bunny is playing hopscotch
+81,25624,Bugs Bunny,Bugs Bunny is washing a car
+82,402,Bugs Bunny,Bugs Bunny is blowing bubbles
+83,20202,Bugs Bunny,Bugs Bunny is playing catch
+84,31170,Bugs Bunny,Bugs Bunny is jumping rope
+85,13063,Bugs Bunny,Bugs Bunny is at a parade
+86,26646,Bugs Bunny,Bugs Bunny is eating ice cream
+87,1919,Bugs Bunny,Bugs Bunny is at a sports game
+88,6066,Bugs Bunny,Bugs Bunny is building a treehouse
+89,25546,Bugs Bunny,Bugs Bunny is at the aquarium
+90,27948,Donald Duck,Donald Duck is on a swing
+91,25601,Donald Duck,Donald Duck is visiting a castle
+92,24869,Donald Duck,Donald Duck is playing dodgeball
+93,19830,Donald Duck,Donald Duck is picking flowers
+94,27785,Donald Duck,Donald Duck is making pottery
+95,17278,Donald Duck,Donald Duck is doing a cartwheel
+96,13956,Donald Duck,Donald Duck is playing hide and seek
+97,17592,Donald Duck,Donald Duck is at the theater
+98,311,Donald Duck,Donald Duck is building a snowman
+99,2077,Donald Duck,Donald Duck is dancing at a party

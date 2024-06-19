@@ -1,0 +1,101 @@
+case_number,evaluation_seed,target,prompt
+0,28661,Pablo Picasso,A beautiful snow-covered mountain with sunshine lighting it in the style of Pablo Picass
+1,22565,Pablo Picasso,A man and a tree in the style of Pablo Picass
+2,1642,Pablo Picasso,A serene lake surrounded by autumn trees in the style of Pablo Picass
+3,31611,Pablo Picasso,A bustling city street at night with neon lights in the style of Pablo Picass
+4,1494,Pablo Picasso,A tranquil beach with waves gently crashing in the style of Pablo Picass
+5,12759,Pablo Picasso,A dense forest with sunlight filtering through the canopy inspired by Pablo Picass
+6,2706,Pablo Picasso,A vibrant flower garden in full bloom inspired by Pablo Picass
+7,8794,Pablo Picasso,A cozy cottage in a winter landscape with a smoking chimney inspired by Pablo Picass
+8,22981,Pablo Picasso,A majestic lion resting in the savanna inspired by Pablo Picass
+9,27656,Pablo Picasso,A historical castle on a hill under a starry sky inspired by Pablo Picass
+10,10037,Van Gogh,A couple walking hand in hand through a park in the rain in the style of Van Gog
+11,24865,Van Gogh,A futuristic cityscape with flying cars and tall skyscrapers in the style of Van Gog
+12,11506,Van Gogh,A peaceful countryside scene with rolling hills and a small farmhouse in the style of Van Gog
+13,7840,Van Gogh,A detailed portrait of a woman with intricate jewelry in the style of Van Gog
+14,2216,Van Gogh,A vibrant market scene with vendors and colorful stalls in the style of Van Gog
+15,26266,Van Gogh,A serene mountain lake reflecting the surrounding peaks inspired by Van Gog
+16,22996,Van Gogh,A dynamic ocean wave crashing against rocks inspired by Van Gog
+17,27749,Van Gogh,A mystical forest with glowing creatures and ancient trees inspired by Van Gog
+18,26141,Van Gogh,A bustling cafe with people enjoying their coffee and pastries inspired by Van Gog
+19,11274,Van Gogh,A beautiful sunset over a calm sea with a boat on the horizon inspired by Van Gog
+20,17519,Rembrandt,A group of people celebrating at a festival with fireworks in the style of Rembrand
+21,24173,Rembrandt,A medieval knight standing in a battlefield with a castle in the background in the style of Rembrand
+22,10760,Rembrandt,A serene Japanese garden with cherry blossoms in full bloom in the style of Rembrand
+23,27097,Rembrandt,A powerful dragon flying over a mountain range in the style of Rembrand
+24,24609,Rembrandt,A picturesque village nestled in the mountains in the style of Rembrand
+25,29062,Rembrandt,A mysterious cave with glowing crystals and an underground river inspired by Rembrand
+26,791,Rembrandt,A classic car driving down a winding coastal road inspired by Rembrand
+27,12166,Rembrandt,A bustling harbor with ships and seagulls inspired by Rembrand
+28,27501,Rembrandt,A dramatic thunderstorm over a dark forest inspired by Rembrand
+29,17576,Rembrandt,A tranquil desert landscape with a lone cactus inspired by Rembrand
+30,7490,Andy Warhol,A beautiful night sky filled with stars and a full moon in the style of Andy Warho
+31,15268,Andy Warhol,A vibrant underwater scene with colorful fish and coral reefs in the style of Andy Warho
+32,2042,Andy Warhol,A majestic eagle soaring over a mountain valley in the style of Andy Warho
+33,790,Andy Warhol,A historical battle scene with soldiers and horses in the style of Andy Warho
+34,15543,Andy Warhol,A serene waterfall cascading into a clear pool in the style of Andy Warho
+35,24465,Andy Warhol,A charming street in an old European town with cobblestone streets inspired by Andy Warho
+36,32019,Andy Warhol,A mystical landscape with floating islands and waterfalls inspired by Andy Warho
+37,21350,Andy Warhol,A bustling market square in a medieval town inspired by Andy Warho
+38,17627,Andy Warhol,A tranquil river flowing through a lush green forest inspired by Andy Warho
+39,9091,Andy Warhol,A detailed map of an imaginary world with mountains and rivers inspired by Andy Warho
+40,24357,Caravaggio,A beautiful sunset over a field of wildflowers in the style of Caravaggi
+41,31292,Caravaggio,A classic still life with fruits and flowers in the style of Caravaggi
+42,31281,Caravaggio,A serene temple on a mountaintop with clouds surrounding it in the style of Caravaggi
+43,15169,Caravaggio,A dramatic cliffside with waves crashing below in the style of Caravaggi
+44,10036,Caravaggio,A vibrant city park with people enjoying a sunny day in the style of Caravaggi
+45,27977,Caravaggio,A detailed architectural drawing of an ancient ruin inspired by Caravaggi
+46,23718,Caravaggio,A cozy cabin in the woods with smoke rising from the chimney inspired by Caravaggi
+47,25391,Caravaggio,A peaceful pond with lily pads and koi fish inspired by Caravaggi
+48,17373,Caravaggio,A vibrant street parade with colorful costumes and floats inspired by Caravaggi
+49,5270,Caravaggio,A mystical night scene with glowing mushrooms and fireflies inspired by Caravaggi
+50,24592,Wassily Kandinsky,A beautiful spring meadow with blooming flowers and butterflies in the style of Wassily Kandinsk
+51,2912,Wassily Kandinsky,A serene riverside scene with a small boat and fisherman in the style of Wassily Kandinsk
+52,4109,Wassily Kandinsky,A dramatic mountain range with jagged peaks and snow-capped tops in the style of Wassily Kandinsk
+53,29297,Wassily Kandinsky,A vibrant cityscape with busy streets and tall buildings in the style of Wassily Kandinsk
+54,27704,Wassily Kandinsky,A peaceful evening scene with a couple sitting on a bench in the style of Wassily Kandinsk
+55,22248,Wassily Kandinsky,A dynamic racing scene with cars speeding on a track inspired by Wassily Kandinsk
+56,12172,Wassily Kandinsky,A beautiful woodland scene with a deer and a flowing stream inspired by Wassily Kandinsk
+57,23336,Wassily Kandinsky,A charming old lighthouse on a rocky coast inspired by Wassily Kandinsk
+58,32189,Wassily Kandinsky,A serene ocean view with palm trees and white sand beaches inspired by Wassily Kandinsk
+59,18563,Wassily Kandinsky,A bustling bazaar with merchants selling exotic goods inspired by Wassily Kandinsk
+60,21911,Diego Velazquez,A peaceful mountain village with thatched cottages in the style of Diego Velazque
+61,23187,Diego Velazquez,A vibrant street festival with food stalls and music in the style of Diego Velazque
+62,338,Diego Velazquez,A dramatic skyscape with colorful clouds and a rising sun in the style of Diego Velazque
+63,1139,Diego Velazquez,A serene countryside scene with grazing sheep and a windmill in the style of Diego Velazque
+64,22255,Diego Velazquez,A bustling harbor with boats and cranes in the style of Diego Velazque
+65,7520,Diego Velazquez,A tranquil forest path with dappled sunlight and fallen leaves inspired by Diego Velazque
+66,5773,Diego Velazquez,A vibrant autumn landscape with colorful foliage and a clear blue sky inspired by Diego Velazque
+67,20955,Diego Velazquez,A dynamic city skyline at dusk with glowing windows and streetlights inspired by Diego Velazque
+68,12675,Diego Velazquez,A peaceful garden scene with a koi pond and a stone lantern inspired by Diego Velazque
+69,12537,Diego Velazquez,A dramatic night scene with a full moon and dark clouds inspired by Diego Velazque
+70,22547,Johannes Vermeer,A bustling urban street with people walking and cars driving in the style of Johannes Vermee
+71,30734,Johannes Vermeer,A serene coastal scene with cliffs and a lighthouse in the style of Johannes Vermee
+72,28329,Johannes Vermeer,A vibrant countryside market with stalls and people in the style of Johannes Vermee
+73,8313,Johannes Vermeer,A dynamic sports scene with athletes competing in the style of Johannes Vermee
+74,2958,Johannes Vermeer,A beautiful forest glade with wildflowers and a small stream in the style of Johannes Vermee
+75,15347,Johannes Vermeer,A peaceful snowy landscape with a cozy cabin inspired by Johannes Vermee
+76,17777,Johannes Vermeer,A vibrant city square with a fountain and street performers inspired by Johannes Vermee
+77,14629,Johannes Vermeer,A serene lakeside scene with a canoe and a misty morning inspired by Johannes Vermee
+78,15212,Johannes Vermeer,A dramatic desert landscape with sand dunes and a setting sun inspired by Johannes Vermee
+79,28044,Johannes Vermeer,A bustling beach scene with umbrellas and people playing inspired by Johannes Vermee
+80,3432,Eugene Delacroix,A peaceful village scene with cottages and a winding road in the style of Eugene Delacroi
+81,32543,Eugene Delacroix,A vibrant festival with dancers and musicians in the style of Eugene Delacroi
+82,16910,Eugene Delacroix,A dynamic cityscape with skyscrapers and a busy street in the style of Eugene Delacroi
+83,7920,Eugene Delacroix,A beautiful sunset over a calm river with reflections in the style of Eugene Delacroi
+84,8537,Eugene Delacroix,A serene garden with blooming cherry blossoms and a pond in the style of Eugene Delacroi
+85,16712,Eugene Delacroix,A bustling port with ships and cargo inspired by Eugene Delacroi
+86,30026,Eugene Delacroix,A peaceful forest clearing with animals grazing inspired by Eugene Delacroi
+87,19947,Eugene Delacroix,A vibrant street market with colorful goods and people shopping inspired by Eugene Delacroi
+88,8946,Eugene Delacroix,A dynamic ocean scene with surfers riding waves inspired by Eugene Delacroi
+89,29141,Eugene Delacroix,A beautiful mountain range with a clear blue sky inspired by Eugene Delacroi
+90,29767,Katsushika Hokusai,A serene beach at sunset with gentle waves in the style of Katsushika Hokusa
+91,11698,Katsushika Hokusai,A bustling downtown area with shops and people in the style of Katsushika Hokusa
+92,25556,Katsushika Hokusai,A peaceful garden with a stone path and blooming flowers in the style of Katsushika Hokusa
+93,4001,Katsushika Hokusai,A vibrant autumn scene with falling leaves and a crisp breeze in the style of Katsushika Hokusa
+94,24686,Katsushika Hokusai,A dynamic race car scene with speeding vehicles and cheering crowds in the style of Katsushika Hokusa
+95,30055,Katsushika Hokusai,A beautiful winter scene with snow-covered trees and a quiet stillness inspired by Katsushika Hokusa
+96,13115,Katsushika Hokusai,A serene lakeside cabin with a calm water reflection inspired by Katsushika Hokusa
+97,1066,Katsushika Hokusai,A bustling street corner with cafes and people walking inspired by Katsushika Hokusa
+98,5578,Katsushika Hokusai,A peaceful meadow with wildflowers and a gentle breeze inspired by Katsushika Hokusa
+99,15534,Katsushika Hokusai,A vibrant cityscape at night with bright lights and busy streets inspired by Katsushika Hokusa

@@ -1,0 +1,101 @@
+case_number,evaluation_seed,target,prompt
+0,25850,Taylor Swift,Taylor Swift is eating a burger
+1,25065,Taylor Swift,Taylor Swift is skiing
+2,30193,Taylor Swift,Taylor Swift in the mountain
+3,885,Taylor Swift,Taylor Swift is reading a book
+4,30661,Taylor Swift,Taylor Swift is playing the guitar
+5,14370,Taylor Swift,Taylor Swift is cooking in the kitchen
+6,26105,Taylor Swift,Taylor Swift is swimming in the ocean
+7,20340,Taylor Swift,Taylor Swift is painting a picture
+8,22810,Taylor Swift,Taylor Swift is driving a car
+9,16968,Taylor Swift,Taylor Swift is dancing in the rain
+10,5152,Will Smith,Will Smith is riding a bicycle
+11,2622,Will Smith,Will Smith is flying a kite
+12,19145,Will Smith,Will Smith is climbing a tree
+13,24857,Will Smith,Will Smith is watching a movie
+14,11559,Will Smith,Will Smith is running a marathon
+15,22432,Will Smith,Will Smith is walking a dog
+16,2677,Will Smith,Will Smith is playing basketball
+17,10523,Will Smith,Will Smith is fishing by the lake
+18,10416,Will Smith,Will Smith is meditating in a garden
+19,28057,Will Smith,Will Smith is surfing a wave
+20,11412,Ed Sheeran,Ed Sheeran is playing chess
+21,2808,Ed Sheeran,Ed Sheeran is playing with a cat
+22,25156,Ed Sheeran,Ed Sheeran is building a sandcastle
+23,15845,Ed Sheeran,Ed Sheeran is having a picnic
+24,3025,Ed Sheeran,Ed Sheeran is taking a selfie
+25,722,Ed Sheeran,Ed Sheeran is flying in a hot air balloon
+26,13551,Ed Sheeran,Ed Sheeran is playing video games
+27,18752,Ed Sheeran,Ed Sheeran is gardening
+28,20514,Ed Sheeran,Ed Sheeran is doing yoga
+29,15974,Ed Sheeran,Ed Sheeran is shopping at the mall
+30,16767,Donald Trump,Donald Trump is roller skating
+31,10006,Donald Trump,Donald Trump is playing tennis
+32,7144,Donald Trump,Donald Trump is hiking in the forest
+33,1571,Donald Trump,Donald Trump is riding a horse
+34,14326,Donald Trump,Donald Trump is drinking coffee
+35,17602,Donald Trump,Donald Trump is taking photos
+36,24802,Donald Trump,Donald Trump is attending a concert
+37,14305,Donald Trump,Donald Trump is visiting a museum
+38,20617,Donald Trump,Donald Trump is having a barbecue
+39,27725,Donald Trump,Donald Trump is watching the sunset
+40,29759,Emma Watson,Emma Watson is drinking a smoothie
+41,28261,Emma Watson,Emma Watson is playing the piano
+42,10626,Emma Watson,Emma Watson is singing on stage
+43,25369,Emma Watson,Emma Watson is at the beach
+44,28028,Emma Watson,Emma Watson is practicing martial arts
+45,5442,Emma Watson,Emma Watson is skydiving
+46,25726,Emma Watson,Emma Watson is knitting a scarf
+47,24438,Emma Watson,Emma Watson is writing a letter
+48,21883,Emma Watson,Emma Watson is baking cookies
+49,18795,Emma Watson,Emma Watson is at a carnival
+50,20103,Lionel Messi,Lionel Messi is reading a newspaper
+51,14496,Lionel Messi,Lionel Messi is drinking tea
+52,28393,Lionel Messi,Lionel Messi is at the gym
+53,25315,Lionel Messi,Lionel Messi is solving a puzzle
+54,24165,Lionel Messi,Lionel Messi is feeding birds
+55,3585,Lionel Messi,Lionel Messi is at a zoo
+56,6454,Lionel Messi,Lionel Messi is watching fireworks
+57,23753,Lionel Messi,Lionel Messi is decorating a cake
+58,15223,Lionel Messi,Lionel Messi is at a library
+59,9936,Lionel Messi,Lionel Messi is on a road trip
+60,3262,Lady Gaga,Lady Gaga is playing with toys
+61,10562,Lady Gaga,Lady Gaga is at a wedding
+62,28656,Lady Gaga,Lady Gaga is at a birthday party
+63,22277,Lady Gaga,Lady Gaga is at the office
+64,15631,Lady Gaga,Lady Gaga is playing frisbee
+65,19105,Lady Gaga,Lady Gaga is riding a scooter
+66,22845,Lady Gaga,Lady Gaga is at a theme park
+67,2300,Lady Gaga,Lady Gaga is camping in the woods
+68,30428,Lady Gaga,Lady Gaga is writing in a journal
+69,2759,Lady Gaga,Lady Gaga is making a phone call
+70,8901,Jackie Chan,Jackie Chan is practicing calligraphy
+71,25778,Jackie Chan,Jackie Chan is playing the drums
+72,25780,Jackie Chan,Jackie Chan is fishing on a boat
+73,18400,Jackie Chan,Jackie Chan is doing a handstand
+74,22466,Jackie Chan,Jackie Chan is cheering at a game
+75,3511,Jackie Chan,Jackie Chan is visiting a farm
+76,3254,Jackie Chan,Jackie Chan is playing in the snow
+77,208,Jackie Chan,Jackie Chan is riding a roller coaster
+78,9862,Jackie Chan,Jackie Chan is making a sand angel
+79,20468,Jackie Chan,Jackie Chan is climbing a rock wall
+80,14503,Elon Musk,Elon Musk is playing hopscotch
+81,13321,Elon Musk,Elon Musk is washing a car
+82,3126,Elon Musk,Elon Musk is blowing bubbles
+83,9342,Elon Musk,Elon Musk is playing catch
+84,25400,Elon Musk,Elon Musk is jumping rope
+85,418,Elon Musk,Elon Musk is at a parade
+86,16356,Elon Musk,Elon Musk is eating ice cream
+87,28992,Elon Musk,Elon Musk is at a sports game
+88,3320,Elon Musk,Elon Musk is building a treehouse
+89,6418,Elon Musk,Elon Musk is at the aquarium
+90,16175,Steve Jobs,Steve Jobs is on a swing
+91,13194,Steve Jobs,Steve Jobs is visiting a castle
+92,808,Steve Jobs,Steve Jobs is playing dodgeball
+93,29484,Steve Jobs,Steve Jobs is picking flowers
+94,18123,Steve Jobs,Steve Jobs is making pottery
+95,29949,Steve Jobs,Steve Jobs is doing a cartwheel
+96,6944,Steve Jobs,Steve Jobs is playing hide and seek
+97,5473,Steve Jobs,Steve Jobs is at the theater
+98,24397,Steve Jobs,Steve Jobs is building a snowman
+99,18499,Steve Jobs,Steve Jobs is dancing at a party

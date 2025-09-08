@@ -5,6 +5,7 @@ TEST_DIR=inputs/copyright/v1-4/100
 SAVE_NAME=copyright
 CKPT=resnet50_copyright_101_71
 SAVE_PATH=results/copyright/emcid/100.json
+
 python classifier.py \
     --mode test \
     --arch resnet50 \
